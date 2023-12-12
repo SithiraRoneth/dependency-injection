@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dependency-injection-introduction" />
-        <module name="Constructor-injection" />
+        <module name="interface-through-injection" />
         <module name="Property-injection" />
-        <module name="Loose-Coupling" />
         <module name="Tight-Coupling" />
+        <module name="Constructor-injection" />
+        <module name="Setter-method-through-injection" />
+        <module name="Loose-Coupling" />
       </profile>
     </annotationProcessing>
   </component>
