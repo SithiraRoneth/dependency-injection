@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/Tight-Coupling/pom.xml" />
         <option value="$PROJECT_DIR$/Loose-Coupling/pom.xml" />
         <option value="$PROJECT_DIR$/dependency-injection-introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/Property-injection/pom.xml" />
       </list>
     </option>
   </component>
